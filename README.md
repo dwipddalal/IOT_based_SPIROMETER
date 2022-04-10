@@ -24,7 +24,7 @@ lung parameters to provide an overall report on
 lung health. 
 
 ## Model
-We aimed to create a workable 
+We aim to create a workable 
 prototype of a low-cost spirometer that can be used 
 for routine respiratory health checks at home as part 
 of this project. The model calculates the rate of air 
